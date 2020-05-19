@@ -22,7 +22,7 @@
 #  MA 02110-1301, USA.
 # 
 # Translators:
-# FABIO SASSI <infinito8824@gmail.com>, 2015
+# FABIO SCASSI <linfinito8824-@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Antergos\n"
